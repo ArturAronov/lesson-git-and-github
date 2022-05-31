@@ -1,4 +1,4 @@
-Hello World (rebase) (rebase conflict from remote)
+Hello World (rebase) (rebase conflict from remote) (rebase conflict remote v2)
 
 Random
 
